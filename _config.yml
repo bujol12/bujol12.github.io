@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kamil Bujel
-  avatar           : "my_photo.png"
+  name             : "Kamil Bujel"
+  avatar           : "Kamil_Bujel.jpg"
   bio              : "MPhil Student in Advanced Computer Science"
   location         : "Univesity of Cambridge, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=a_o4lxUAAAAJ&hl=en"
-  email            : "kdb36 [at] cam [dot] ac [dot] uk
+  email            : "kdb36 [at] cam [dot] ac [dot] uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
